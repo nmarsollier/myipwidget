@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Show My Ip</string>
+    <string name="add_widget">SShow My Ip</string>
+    <string name="app_widget_description">Show your IP in a widget</string>
+    <string name="title_activity_my_ip">My Ip</string>
+</resources>
